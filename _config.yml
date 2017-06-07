@@ -1,23 +1,24 @@
-typography_spectrum: 0.856075732990878
+typography_spectrum: 0.9318747409870203
 content_rating:
   adult: false
 color:
-  lightness: 0.2687773783920831
+  lightness: 0.6232322519772345
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-  saturation: 0.571167399569018
-  brandStrength: 0.39818451958948214
-  rhythmicContrast: 0.1435510211076477
+  saturation: 0.5290637753699159
+  brandStrength: 0.3909648755612313
+  rhythmicContrast: 0.14815048077521792
 github: true
 opengraph: {}
-layout_spectrum: 0.3281387126407964
+layout_spectrum: 0.363818691104171
 analytics: {}
 author: {}
 name: Bohuslav Rattay
+url: 'https://bohuslavrattay.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -29,11 +30,20 @@ navigation:
   - name: BIOGRAPHY
     id: 2b130b44-ddbf-4d03-9500-7210b8f19907
     type: content
-  - name: RESUME
+  - name: 2017/18 CONCERT SCHEDULE
     id: b5ad4b20-ab7e-4692-98e4-066357f624a9
     type: content
-  - name: 'EL PASO SYMPHONY '
+  - name: MEDIA
+    id: 2ec187c6-8e3d-43ed-917d-5657743088a9
+    type: content
+  - name: EL PASO SYMPHONY
     id: 8966a5d9-04b8-4ef7-9121-408d7319ef1c
+    type: content
+  - name: MIDLAND SYMPHONY
+    id: bcc3bd45-7c61-4dec-a8f9-a5ca864af58c
+    type: content
+  - name: LAKE CHARLES SYMPHONY
+    id: 338b96db-22cb-46b5-804a-8559e351458d
     type: content
 collections:
   - index:
@@ -74,4 +84,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: CONDUCTOR
-url: 'https://bohuslavrattay.com'
+purpose: []
