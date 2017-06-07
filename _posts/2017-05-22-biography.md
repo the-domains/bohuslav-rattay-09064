@@ -9,8 +9,8 @@ description: >-
   one of the finest young talents of his generation, Mr. Rattay combines
   impassioned and virtuosic musicianship with a determination to bring great
   music into the lives of all people.
-dateModified: '2017-05-22T16:52:13.721Z'
-datePublished: '2017-05-22T16:52:14.436Z'
+dateModified: '2017-05-22T16:54:42.172Z'
+datePublished: '2017-05-22T16:54:43.040Z'
 title: ''
 author: []
 publisher: {}
@@ -23,9 +23,7 @@ url: biography/index.html
 _type: Article
 
 ---
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtUVuOFDEMvEodYJk7LAt_jEDABdyJZ2JtOo7s9Iya0-P0MD_ARxQlcj1c9faLU_nwurJJooakLW9pqOGjls0r3fCdxqAd4iAsm--gdSF3yjF0iZNqvAJcsW5xv-Cu9i7tiruMArVU2IdRwJOpO0ZhXKsujKHopqHH8H3tRZukA-3QC6hWBE_2OUfIcmNzBm1ZuCU-4WcQNb7XcNS7ShuccZ4W8EmMjyWCZsp9rvhGrvjxUNnx9ekqVOLf2W4cBv1v_NxvEpwlV2r5vwTxPUe-0DvjrZDVYPp37oRXx9ycpM0kjfs2aIi2KauNn14v0gKAXbeIcFDlNo44ShRw5cZ2gF5wttOzmqTrMlGQtc8ugi0fvm5iY9O50VGNUPMi_VFMJMqDbZX2cBEhLzZruxrTeAAQoerhqsoM6E8rnbVXPv0GniTRvg" height="244" style=""></iframe>
-
-Czech-American conductor **Bohuslav Rattay** is a busy ambassador for classical music, working with orchestras across the globe to produce symphonic works of all kinds to a diverse audience. The newly appointed Music Director of the El Paso Symphony Orchestra also serves as Music Director for the Midland Symphony Orchestra and the Lake Charles Symphony Orchestra. As he gains a reputation as one of the finest young talents of his generation, Mr. Rattay combines impassioned and virtuosic musicianship with a determination to bring great music into the lives of all people.
+**C**zech-American conductor **Bohuslav Rattay** is a busy ambassador for classical music, working with orchestras across the globe to produce symphonic works of all kinds to a diverse audience. The newly appointed Music Director of the El Paso Symphony Orchestra also serves as Music Director for the Midland Symphony Orchestra and the Lake Charles Symphony Orchestra. As he gains a reputation as one of the finest young talents of his generation, Mr. Rattay combines impassioned and virtuosic musicianship with a determination to bring great music into the lives of all people.
 
 An enthusiastic promoter for classical music, Mr. Rattay strives to bring the traditional and innovative together in a manner exciting and fresh for his audience. He is renowned for his unique concert programs, incorporating special audience discussions and including multi-media elements. He is also appreciated for his passion for the classics, with special appreciation often given to his insightful understanding of the music of his native Bohemia. Rattay has been praised for his ability to communicate the depth of a diverse range of music to his audience, for the classics, "Rattay is certainly the man for Tchaikovsky's fourth" (Charleston Today, 2011), and for the fashionable, "Watching him conduct is like watching a painter creating rich imagery to live music on a large canvas" (El Paso Times, 2013). His intelligent and vast programming allows him to connect to a broad range of audience, creating new symphony-goers while entertaining the enthusiasts.
 
