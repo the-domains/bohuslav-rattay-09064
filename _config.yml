@@ -1,16 +1,16 @@
-layout_spectrum: 0.3156956460339819
-typography_spectrum: 0.9575183921115528
+layout_spectrum: 0.11644406524376187
+typography_spectrum: 0.8119665446966924
 color:
-  lightness: 0.2605955612563556
+  lightness: 0.1268843820602587
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-  saturation: 0.5739461920485084
-  brandStrength: 0.3993652111833159
-  rhythmicContrast: 0.1849478746673996
+  saturation: 0.5248021569612925
+  brandStrength: 0.12270307100709933
+  rhythmicContrast: 0.9759878171956407
 content_rating:
   adult: false
 github: true
@@ -26,11 +26,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: 2017/18 SEASON
+  - name: 2017/2018 SEASON
     id: ba9aa43c-9111-480e-83c3-8c206834bcb7
     type: content
   - name: BIOGRAPHY
-    id: 2b130b44-ddbf-4d03-9500-7210b8f19907
+    id: 9bec7049-a4da-4d5e-84e8-229d040e05e0
     type: content
 collections:
   - index:
