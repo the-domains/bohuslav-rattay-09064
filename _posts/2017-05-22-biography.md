@@ -1,18 +1,16 @@
 ---
 inFeed: true
 description: BIOGRAPHY
-dateModified: '2017-05-22T06:03:43.620Z'
-datePublished: '2017-05-22T06:03:44.158Z'
+dateModified: '2017-05-22T05:51:26.921Z'
+datePublished: '2017-05-22T05:51:28.386Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-sourcePath: _posts/2017-05-22-biography.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-22T05:51:28.386Z'
-url: biography/index.html
-_type: Article
+sourcePath: _posts/2017-05-22-biography.md
+_type: Blurb
 
 ---
 **BIOGRAPHY**
