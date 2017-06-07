@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-07T21:53:45.583Z'
-datePublished: '2017-06-07T21:53:46.076Z'
+dateModified: '2017-06-07T22:01:07.545Z'
+datePublished: '2017-06-07T22:01:07.886Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
