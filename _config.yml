@@ -1,20 +1,20 @@
-typography_spectrum: 0.9284103789540137
+layout_spectrum: 0.3156956460339819
+typography_spectrum: 0.9575183921115528
+color:
+  lightness: 0.2605955612563556
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  saturation: 0.5739461920485084
+  brandStrength: 0.3993652111833159
+  rhythmicContrast: 0.1849478746673996
 content_rating:
   adult: false
-color:
-  lightness: 0.3374695647661897
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  saturation: 0.3652342771455682
-  brandStrength: 0.6764207238956622
-  rhythmicContrast: 0.7613411892693268
 github: true
 opengraph: {}
-layout_spectrum: 0.0587741865628943
 analytics: {}
 author: {}
 name: Bohuslav Rattay
@@ -26,14 +26,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: 2017/2018 SEASON
+  - name: 2017/18 SEASON
     id: ba9aa43c-9111-480e-83c3-8c206834bcb7
     type: content
   - name: BIOGRAPHY
-    id: 9bec7049-a4da-4d5e-84e8-229d040e05e0
-    type: content
-  - name: RESUME
-    id: d7e239fa-1d64-4341-966e-cef48c3be1c1
+    id: 2b130b44-ddbf-4d03-9500-7210b8f19907
     type: content
 collections:
   - index:
@@ -53,23 +50,24 @@ content:
     type: image
     html: >-
       <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f5f4e66-ec8a-4d50-ab1d-019b6a3a0eea.jpg">
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37bcaf89-0318-4e41-bb69-5b043614ac89.jpg">
     src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f5f4e66-ec8a-4d50-ab1d-019b6a3a0eea.jpg
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/37bcaf89-0318-4e41-bb69-5b043614ac89.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
       author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
+      related: []
       publisher:
-        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
+        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
       description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
