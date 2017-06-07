@@ -1,20 +1,20 @@
-typography_spectrum: 0.6598294676742563
+typography_spectrum: 0.9284103789540137
 content_rating:
   adult: false
 color:
-  lightness: 0.12566333197379984
+  lightness: 0.3374695647661897
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-  saturation: 0.5257698472190907
-  brandStrength: 0.12635483094472622
-  rhythmicContrast: 0.9766214810231572
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  saturation: 0.3652342771455682
+  brandStrength: 0.6764207238956622
+  rhythmicContrast: 0.7613411892693268
 github: true
 opengraph: {}
-layout_spectrum: 0.4623913097862929
+layout_spectrum: 0.0587741865628943
 analytics: {}
 author: {}
 name: Bohuslav Rattay
@@ -26,11 +26,14 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: 2017/18 SEASON
+  - name: 2017/2018 SEASON
     id: ba9aa43c-9111-480e-83c3-8c206834bcb7
     type: content
   - name: BIOGRAPHY
-    id: 2b130b44-ddbf-4d03-9500-7210b8f19907
+    id: 9bec7049-a4da-4d5e-84e8-229d040e05e0
+    type: content
+  - name: RESUME
+    id: d7e239fa-1d64-4341-966e-cef48c3be1c1
     type: content
 collections:
   - index:
