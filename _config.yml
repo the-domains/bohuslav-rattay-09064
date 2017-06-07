@@ -42,11 +42,11 @@ navigation:
   - name: MIDLAND SYMPHONY
     id: bcc3bd45-7c61-4dec-a8f9-a5ca864af58c
     type: content
-  - name: LAKE CHARLES SYMPHONY
-    id: 338b96db-22cb-46b5-804a-8559e351458d
-    type: content
   - name: 2017/18
     id: 27cf9b82-546b-41a7-b4a2-2a9929a449e8
+    type: content
+  - name: LAKE CHARLES SYMPHONY
+    id: 338b96db-22cb-46b5-804a-8559e351458d
     type: content
 collections:
   - index:
