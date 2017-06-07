@@ -1,20 +1,20 @@
-typography_spectrum: 0.856075732990878
-content_rating:
-  adult: false
+layout_spectrum: 0.4623913097862929
+typography_spectrum: 0.6598294676742563
 color:
-  lightness: 0.2687773783920831
+  lightness: 0.12566333197379984
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-  saturation: 0.571167399569018
-  brandStrength: 0.39818451958948214
-  rhythmicContrast: 0.1435510211076477
+  saturation: 0.5257698472190907
+  brandStrength: 0.12635483094472622
+  rhythmicContrast: 0.9766214810231572
+content_rating:
+  adult: false
 github: true
 opengraph: {}
-layout_spectrum: 0.3281387126407964
 analytics: {}
 author: {}
 name: Bohuslav Rattay
@@ -25,16 +25,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: BIOGRAPHY
-    id: 2b130b44-ddbf-4d03-9500-7210b8f19907
-    type: content
-  - name: RESUME
-    id: b5ad4b20-ab7e-4692-98e4-066357f624a9
-    type: content
-  - name: 2017/18 SEASON
-    id: 8966a5d9-04b8-4ef7-9121-408d7319ef1c
-    type: content
 collections:
   - index:
       path: /
@@ -53,9 +43,9 @@ content:
     type: image
     html: >-
       <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37bcaf89-0318-4e41-bb69-5b043614ac89.jpg">
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f5f4e66-ec8a-4d50-ab1d-019b6a3a0eea.jpg">
     src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/37bcaf89-0318-4e41-bb69-5b043614ac89.jpg
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f5f4e66-ec8a-4d50-ab1d-019b6a3a0eea.jpg
     metadata:
       datePublished: null
       keywords: []
@@ -65,13 +55,12 @@ content:
       '@type': MediaObject
       app_links: []
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: CONDUCTOR
-url: 'https://bohuslavrattay.com'
