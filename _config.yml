@@ -1,16 +1,16 @@
-layout_spectrum: 0.363818691104171
-typography_spectrum: 0.9318747409870203
+layout_spectrum: 0.3156956460339819
+typography_spectrum: 0.9575183921115528
 color:
-  lightness: 0.6232322519772345
+  lightness: 0.2605955612563556
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-  saturation: 0.5290637753699159
-  brandStrength: 0.3909648755612313
-  rhythmicContrast: 0.14815048077521792
+  saturation: 0.5739461920485084
+  brandStrength: 0.3993652111833159
+  rhythmicContrast: 0.1849478746673996
 content_rating:
   adult: false
 github: true
@@ -18,7 +18,6 @@ opengraph: {}
 analytics: {}
 author: {}
 name: Bohuslav Rattay
-url: 'https://bohuslavrattay.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -27,23 +26,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: 2017/18 SEASON
+    id: ba9aa43c-9111-480e-83c3-8c206834bcb7
+    type: content
   - name: BIOGRAPHY
     id: 2b130b44-ddbf-4d03-9500-7210b8f19907
-    type: content
-  - name: RESUME
-    id: b5ad4b20-ab7e-4692-98e4-066357f624a9
-    type: content
-  - name: MEDIA
-    id: 2ec187c6-8e3d-43ed-917d-5657743088a9
-    type: content
-  - name: EL PASO SYMPHONY
-    id: 8966a5d9-04b8-4ef7-9121-408d7319ef1c
-    type: content
-  - name: MIDLAND SYMPHONY
-    id: bcc3bd45-7c61-4dec-a8f9-a5ca864af58c
-    type: content
-  - name: LAKE CHARLES SYMPHONY
-    id: 338b96db-22cb-46b5-804a-8559e351458d
     type: content
 collections:
   - index:
@@ -63,9 +50,9 @@ content:
     type: image
     html: >-
       <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37bcaf89-0318-4e41-bb69-5b043614ac89.jpg">
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f5f4e66-ec8a-4d50-ab1d-019b6a3a0eea.jpg">
     src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/37bcaf89-0318-4e41-bb69-5b043614ac89.jpg
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f5f4e66-ec8a-4d50-ab1d-019b6a3a0eea.jpg
     metadata:
       datePublished: null
       keywords: []
@@ -75,13 +62,12 @@ content:
       '@type': MediaObject
       app_links: []
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: CONDUCTOR
-purpose: []
