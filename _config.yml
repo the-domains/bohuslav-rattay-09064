@@ -1,20 +1,7 @@
-layout_spectrum: 0.0587741865628943
-typography_spectrum: 0.9284103789540137
-color:
-  lightness: 0.3374695647661897
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  saturation: 0.3652342771455682
-  brandStrength: 0.6764207238956622
-  rhythmicContrast: 0.7613411892693268
 name: Bohuslav Rattay
 analytics: {}
 github: true
-description: CONDUCTOR
+description: Conductor
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -61,13 +48,26 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - name: 2017/2018 SEASON
-    id: ba9aa43c-9111-480e-83c3-8c206834bcb7
+  - id: 9bec7049-a4da-4d5e-84e8-229d040e05e0
+    name: BIOGRAPHY
     type: content
-  - name: BIOGRAPHY
-    id: 9bec7049-a4da-4d5e-84e8-229d040e05e0
+  - id: ba9aa43c-9111-480e-83c3-8c206834bcb7
+    name: 2016/2017 SEASON
     type: content
+layout_spectrum: 1
+color:
+  lightness: 0.4561289399336692
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  saturation: 0.957837709733331
+  brandStrength: 0.4681690983468722
+  rhythmicContrast: 0.3058056282128512
 content_rating:
   adult: false
+typography_spectrum: 0.9480101153983891
 opengraph: {}
 title: BOHUSLAV RATAY
