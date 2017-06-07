@@ -1,20 +1,23 @@
-layout_spectrum: 0.0587741865628943
-typography_spectrum: 0.9284103789540137
+typography_spectrum: 0.6598294676742563
+content_rating:
+  adult: false
 color:
-  lightness: 0.3374695647661897
+  lightness: 0.12566333197379984
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  saturation: 0.3652342771455682
-  brandStrength: 0.6764207238956622
-  rhythmicContrast: 0.7613411892693268
-name: Bohuslav Rattay
-analytics: {}
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  saturation: 0.5257698472190907
+  brandStrength: 0.12635483094472622
+  rhythmicContrast: 0.9766214810231572
 github: true
-description: CONDUCTOR
+opengraph: {}
+layout_spectrum: 0.4623913097862929
+analytics: {}
+author: {}
+name: Bohuslav Rattay
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -22,7 +25,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-author: {}
+navigation:
+  - name: 2017/18 SEASON
+    id: ba9aa43c-9111-480e-83c3-8c206834bcb7
+    type: content
 collections:
   - index:
       path: /
@@ -35,6 +41,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: BOHUSLAV RATAY
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -44,30 +51,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f5f4e66-ec8a-4d50-ab1d-019b6a3a0eea.jpg
     metadata:
+      datePublished: null
+      keywords: []
+      related: []
       author: []
       '@context': 'http://schema.org'
-      keywords: []
       '@type': MediaObject
+      app_links: []
       publisher:
         favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      app_links: []
-      related: []
       description: ''
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - name: BIOGRAPHY
-    id: 9bec7049-a4da-4d5e-84e8-229d040e05e0
-    type: content
-  - name: 2016/2017 SEASON
-    id: ba9aa43c-9111-480e-83c3-8c206834bcb7
-    type: content
-content_rating:
-  adult: false
-opengraph: {}
-title: BOHUSLAV RATAY
+description: CONDUCTOR
