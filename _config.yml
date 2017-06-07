@@ -1,24 +1,23 @@
-typography_spectrum: 0.856075732990878
-content_rating:
-  adult: false
+layout_spectrum: 0.3156956460339819
+typography_spectrum: 0.9575183921115528
 color:
-  lightness: 0.2687773783920831
+  lightness: 0.2605955612563556
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-  saturation: 0.571167399569018
-  brandStrength: 0.39818451958948214
-  rhythmicContrast: 0.1435510211076477
+  saturation: 0.5739461920485084
+  brandStrength: 0.3993652111833159
+  rhythmicContrast: 0.1849478746673996
+content_rating:
+  adult: false
 github: true
 opengraph: {}
-layout_spectrum: 0.3281387126407964
 analytics: {}
 author: {}
 name: Bohuslav Rattay
-url: 'https://bohuslavrattay.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -27,17 +26,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: 2017/18 SEASON
+    id: ba9aa43c-9111-480e-83c3-8c206834bcb7
+    type: content
   - name: BIOGRAPHY
     id: 2b130b44-ddbf-4d03-9500-7210b8f19907
-    type: content
-  - name: RESUME
-    id: b5ad4b20-ab7e-4692-98e4-066357f624a9
-    type: content
-  - name: EL PASO SYMPHONY
-    id: 8966a5d9-04b8-4ef7-9121-408d7319ef1c
-    type: content
-  - name: MIDLAND SYMPHONY
-    id: bcc3bd45-7c61-4dec-a8f9-a5ca864af58c
     type: content
 collections:
   - index:
@@ -52,29 +45,5 @@ collections:
       format: rss
       number: 10
 title: BOHUSLAV RATAY
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37bcaf89-0318-4e41-bb69-5b043614ac89.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/37bcaf89-0318-4e41-bb69-5b043614ac89.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: CONDUCTOR
