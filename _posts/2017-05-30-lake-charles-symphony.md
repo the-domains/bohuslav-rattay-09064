@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-05-30T17:11:09.287Z'
-datePublished: '2017-05-30T17:11:09.923Z'
+dateModified: '2017-06-07T17:24:05.314Z'
+datePublished: '2017-06-07T17:24:05.806Z'
 title: LAKE CHARLES SYMPHONY
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: MediaObject
 ---
 # LAKE CHARLES SYMPHONY
 
-## 2017/18 SEASON
+# 2017/18 SEASON
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="15" style=""></iframe>
 
