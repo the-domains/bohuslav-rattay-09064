@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Saturday July 15, 2017 - July Pops'
-dateModified: '2017-05-30T17:06:53.813Z'
-datePublished: '2017-05-30T17:06:54.237Z'
+dateModified: '2017-05-30T17:07:00.272Z'
+datePublished: '2017-05-30T17:07:00.783Z'
 title: LAKE CHARLES SYMPHONY
 author: []
 publisher: {}
@@ -48,4 +48,4 @@ _type: Blurb
 
 **April 5, 2018**
 
-* Video game live
+* Video games live
