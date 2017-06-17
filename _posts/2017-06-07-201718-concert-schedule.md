@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-17T23:58:25.710Z'
-datePublished: '2017-06-17T23:58:26.233Z'
+dateModified: '2017-06-17T23:59:03.338Z'
+datePublished: '2017-06-17T23:59:03.896Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -30,6 +30,13 @@ September 15/16 2017 - **Le Quattro Staggioni**
 ### **September 23, 2017 - Jeans 'n Classics**
 
 * **Music of Bowie & Prince**
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+### **October 7, 2017 - Brahms, Beer and Bartok**
+
+* **Brahms, Symphony 4, op. 98, E minor**
+* **Bartok, Concerto for Orchestra**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
