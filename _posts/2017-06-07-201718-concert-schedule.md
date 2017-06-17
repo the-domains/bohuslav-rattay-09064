@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-17T23:57:12.519Z'
-datePublished: '2017-06-17T23:57:13.036Z'
+dateModified: '2017-06-17T23:57:45.127Z'
+datePublished: '2017-06-17T23:57:45.648Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -50,5 +50,14 @@ February 23/24 2018 - **UTEP Choral Collaboration**
 
 * Beethoven Symphony No.7
 * Best of Requiems
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+April 13/14 2018 - **Kurt Weill festival**
+
+* Mack the knife
+* Seven deadly sins
+* Whitman songs
+* Broadway medley
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
