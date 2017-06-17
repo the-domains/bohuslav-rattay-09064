@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-17T23:56:31.134Z'
-datePublished: '2017-06-17T23:56:31.598Z'
+dateModified: '2017-06-17T23:57:12.519Z'
+datePublished: '2017-06-17T23:57:13.036Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -43,5 +43,12 @@ November 17/18 2017 - **Music of John Williams**
 * Highlights from Jurassic park
 * **Concerto for Bassoon and Orchestra**
 * Star Wars Medley
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+February 23/24 2018 - **UTEP Choral Collaboration**
+
+* Beethoven Symphony No.7
+* Best of Requiems
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
