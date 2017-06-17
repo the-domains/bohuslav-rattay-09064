@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-17T23:57:45.127Z'
-datePublished: '2017-06-17T23:57:45.648Z'
+dateModified: '2017-06-17T23:58:25.710Z'
+datePublished: '2017-06-17T23:58:26.233Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -24,6 +24,12 @@ September 15/16 2017 - **Le Quattro Staggioni**
 * Piazzolla Four Seasons in Buenos Aires
 * Korsakov Snow Maiden Suite
 * Stravinsky Firebird Suite
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+### **September 23, 2017 - Jeans 'n Classics**
+
+* **Music of Bowie & Prince**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
