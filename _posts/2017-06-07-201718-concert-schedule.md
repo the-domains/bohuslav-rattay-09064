@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-17T23:54:49.400Z'
-datePublished: '2017-06-17T23:54:49.894Z'
+dateModified: '2017-06-17T23:55:57.135Z'
+datePublished: '2017-06-17T23:55:57.613Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -24,5 +24,13 @@ September 15/16 2017 - **Le Quattro Staggioni**
 * Piazzolla Four Seasons in Buenos Aires
 * Korsakov Snow Maiden Suite
 * Stravinsky Firebird Suite
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+October 20/21 2017 - **Beethoven, Bartok and Beer**
+
+* **Yefim Bronfman, piano**
+* Beethoven piano concerto no.4
+* Bartok Concerto for Orchestra
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
