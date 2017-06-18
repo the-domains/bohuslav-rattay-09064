@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T17:01:32.152Z'
-datePublished: '2017-06-18T17:01:32.692Z'
+dateModified: '2017-06-18T17:10:39.352Z'
+datePublished: '2017-06-18T17:10:40.025Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -60,7 +60,7 @@ _type: Article
 
 ## October 20/21, 2017 - Beethoven, Bartok and Beer - El Paso Symphony
 
-* **Beethoven piano concerto no.4, **_**Yefim Bronfman - piano**_
+* **Beethoven piano concerto No. 4, **_**Yefim Bronfman - piano**_
 * **Bartok Concerto for Orchestra**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
@@ -114,13 +114,13 @@ _type: Article
 
 * **Beethoven Prometheus Overture**
 * **Michael Daugherty cello concerto**
-* **Beethoven Symphony No.7**
+* **Beethoven Symphony No. 7**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
 ## February 23/24, 2018 - UTEP Choral Collaboration - El Paso Symphony
 
-* **Beethoven Symphony No.7**
+* **Beethoven Symphony No. 7**
 * **Best of Requiem**s
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
@@ -150,4 +150,4 @@ _type: Article
 
 * **Poulenc Concerto for Two Pianos and Orchestra in D minor**
 * _**Christina and Michelle Naughton**_**, piano duo**
-* **Mahler Symphony No.5**
+* **Mahler Symphony No. 5**
