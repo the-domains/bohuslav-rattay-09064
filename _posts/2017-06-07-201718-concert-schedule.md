@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-18T00:05:02.633Z'
-datePublished: '2017-06-18T00:05:03.194Z'
+dateModified: '2017-06-18T00:05:53.571Z'
+datePublished: '2017-06-18T00:05:54.040Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -116,6 +116,12 @@ February 23/24 2018 - **UTEP Choral Collaboration**
 ### **March 3 or 4, 2018**
 
 * **Black Violin**
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+### **April 5, 2018**
+
+* **Video games live**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
