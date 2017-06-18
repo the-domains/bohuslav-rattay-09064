@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T00:30:02.179Z'
-datePublished: '2017-06-18T00:30:02.855Z'
+dateModified: '2017-06-18T00:30:57.257Z'
+datePublished: '2017-06-18T00:30:57.763Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -17,17 +17,13 @@ _type: Article
 ---
 # 2017/18 CONCERT SCHEDULE
 
-## Saturday July 15, 2017 - July Pops
-
-## Lake Charles Symphony
+## Saturday July 15, 2017 - July Pops Lake Charles Symphony
 
 * **The Rat Pack**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## September 15/16 2017 - Le Quattro Staggioni
-
-## El Paso Symphony
+## September 15/16 2017 - Le Quattro Staggioni El Paso Symphony
 
 * **Chloe Trevor, violin**
 * **Vivaldi Le Quattro Staggioni**
@@ -37,9 +33,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## September 23, 2017 - Jeans 'n Classics
-
-## Midland Symphony
+## September 23, 2017 - Jeans 'n Classics Midland Symphony
 
 * **Music of Bowie & Prince**
 
