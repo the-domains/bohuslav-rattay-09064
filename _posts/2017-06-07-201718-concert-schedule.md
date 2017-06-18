@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-18T00:02:49.798Z'
-datePublished: '2017-06-18T00:02:50.273Z'
+dateModified: '2017-06-18T00:03:27.871Z'
+datePublished: '2017-06-18T00:03:28.420Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -58,6 +58,12 @@ October 20/21 2017 - **Beethoven, Bartok and Beer**
 * **Yefim Bronfman, piano**
 * Beethoven piano concerto no.4
 * Bartok Concerto for Orchestra
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+### **Friday October 27, 2017**
+
+* **Music from James Bond**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
