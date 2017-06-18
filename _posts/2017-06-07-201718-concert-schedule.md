@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-17T23:59:42.006Z'
-datePublished: '2017-06-17T23:59:42.437Z'
+dateModified: '2017-06-18T00:00:17.450Z'
+datePublished: '2017-06-18T00:00:17.908Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -63,6 +63,12 @@ November 17/18 2017 - **Music of John Williams**
 * Highlights from Jurassic park
 * **Concerto for Bassoon and Orchestra**
 * Star Wars Medley
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+### **Friday, December 8, 2017 - Holiday pops**
+
+* **Dianne Reeves**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
