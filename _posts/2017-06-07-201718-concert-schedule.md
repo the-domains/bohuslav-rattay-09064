@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T16:48:17.851Z'
-datePublished: '2017-06-18T16:48:18.482Z'
+dateModified: '2017-06-18T16:52:28.791Z'
+datePublished: '2017-06-18T16:52:29.261Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -23,7 +23,13 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## September 15/16 2017 - Le Quattro Staggioni - El Paso Symphony
+## August 19, 2017 - August Pops - El Paso Symphony
+
+* **Music of the Beatles**
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+## September 15/16, 2017 - Le Quattro Staggioni - El Paso Symphony
 
 * **Chloe Trevor, violin**
 * **Vivaldi Le Quattro Staggioni**
@@ -53,7 +59,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## October 20/21 2017 - Beethoven, Bartok and Beer - El Paso Symphony
+## October 20/21, 2017 - Beethoven, Bartok and Beer - El Paso Symphony
 
 * **Yefim Bronfman, piano**
 * **Beethoven piano concerto no.4**
@@ -93,7 +99,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## Friday, December 8, 2017 - Holiday pops - Midland Symphony
+## December 8, 2017 - Holiday pops - Midland Symphony
 
 * **Dianne Reeves**
 
