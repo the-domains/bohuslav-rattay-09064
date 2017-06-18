@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-18T00:02:09.797Z'
-datePublished: '2017-06-18T00:02:10.329Z'
+dateModified: '2017-06-18T00:02:49.798Z'
+datePublished: '2017-06-18T00:02:50.273Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -36,6 +36,13 @@ September 15/16 2017 - **Le Quattro Staggioni**
 ### **September 23, 2017 - Jeans 'n Classics**
 
 * **Music of Bowie & Prince**
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+### **Saturday September 30, 2017**
+
+* **Gates Evangeline Suite with video**
+* **Brahms Symphony 4, op. 98, E minor**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
