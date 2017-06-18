@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T16:55:42.170Z'
-datePublished: '2017-06-18T16:55:42.790Z'
+dateModified: '2017-06-18T16:59:00.701Z'
+datePublished: '2017-06-18T16:59:01.366Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -89,10 +89,10 @@ _type: Article
 ## November 17/18, 2017 - Music of John Williams - El Paso Symphony
 
 * **ET: Adventures on Earth**
-* **Concerto for Horn and Orchestra**
+* **Concerto for Horn and Orchestra, **_**Kurt Civilette - Horn**_
 * **March from Raiders of the Lost Ark**
 * **Highlights from Jurassic park**
-* **Concerto for Bassoon and Orchestra**
+* **Concerto for Bassoon and Orchestra, **_**Cara Luffey - Bassoon**_
 * **Star Wars Medley**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
