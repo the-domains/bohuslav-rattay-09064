@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-18T00:00:59.619Z'
-datePublished: '2017-06-18T00:01:00.200Z'
+dateModified: '2017-06-18T00:01:33.209Z'
+datePublished: '2017-06-18T00:01:33.682Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -95,3 +95,8 @@ April 13/14 2018 - **Kurt Weill festival**
 * Broadway medley
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+### **April 21, 2018 - Double Concerto**
+
+* **Poulenc Concerto for Two Pianos and Orchestra in D minor**
+* **Mahler Symphony No.5**
