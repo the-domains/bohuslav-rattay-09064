@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T00:30:59.269Z'
-datePublished: '2017-06-18T00:30:59.715Z'
+dateModified: '2017-06-18T00:32:50.600Z'
+datePublished: '2017-06-18T00:32:51.176Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -17,13 +17,13 @@ _type: Article
 ---
 # 2017/18 CONCERT SCHEDULE
 
-## Saturday July 15, 2017 - July Pops Lake Charles Symphony
+## Saturday July 15, 2017 - July Pops Lake - Charles Symphony
 
 * **The Rat Pack**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## September 15/16 2017 - Le Quattro Staggioni El Paso Symphony
+## September 15/16 2017 - Le Quattro Staggioni - El Paso Symphony
 
 * **Chloe Trevor, violin**
 * **Vivaldi Le Quattro Staggioni**
@@ -33,7 +33,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## September 23, 2017 - Jeans 'n Classics Midland Symphony
+## September 23, 2017 - Jeans 'n Classics - Midland Symphony
 
 * **Music of Bowie & Prince**
 
@@ -46,18 +46,15 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## October 7, 2017 - Brahms, Beer and Bartok
-
-## Midland Symphony
+## October 7, 2017 - Brahms, Beer and Bartok -
+Midland Symphony
 
 * **Brahms, Symphony 4, op. 98, E minor**
 * **Bartok, Concerto for Orchestra**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## October 20/21 2017 - Beethoven, Bartok and Beer
-
-## El Paso Symphony
+## October 20/21 2017 - Beethoven, Bartok and Beer - El Paso Symphony
 
 * **Yefim Bronfman, piano**
 * **Beethoven piano concerto no.4**
@@ -71,18 +68,15 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## November 4, 2017 - Tf3 Mash up
-
-## Midland Symphony
+## November 4, 2017 - Tf3 Mash up - Midland Symphony
 
 * **De Falla Three Cornered Hat (suite 1 and 2)**
 * **Tf3 Mash up**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## November 17/18, 2017 - Music of John Williams
-
-## El Paso Symphony
+## November 17/18, 2017 - Music of John Williams -
+El Paso Symphony
 
 * **ET: Adventures on Earth**
 * **Concerto for Horn and Orchestra**
@@ -93,9 +87,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## Friday, December 8, 2017 - Holiday pops
-
-## Midland Symphony
+## Friday, December 8, 2017 - Holiday pops - Midland Symphony
 
 * **Dianne Reeves**
 
@@ -108,9 +100,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## February 3, 2018 - Zuill Bailey, cello
-
-## Midland Symphony
+## February 3, 2018 - Zuill Bailey, cello - Midland Symphony
 
 * **Beethoven Prometheus Overture**
 * **Michael Daugherty cello concerto**
@@ -118,9 +108,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## February 23/24, 2018 - UTEP Choral Collaboration
-
-## El Paso Symphony
+## February 23/24, 2018 - UTEP Choral Collaboration - El Paso Symphony
 
 * **Beethoven Symphony No.7**
 * **Best of Requiem**s
@@ -139,9 +127,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## April 13/14, 2018 - Kurt Weill festival
-
-## El Paso Symphony
+## April 13/14, 2018 - Kurt Weill festival - El Paso Symphony
 
 * **Mack the knife**
 * **Seven deadly sins**
@@ -150,9 +136,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## April 21, 2018 - Double Concerto 
-
-## Midland Symphony
+## April 21, 2018 - Double Concerto - Midland Symphony
 
 * **Poulenc Concerto for Two Pianos and Orchestra in D minor**
 * **Mahler Symphony No.5**
