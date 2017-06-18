@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T00:23:32.198Z'
-datePublished: '2017-06-18T00:23:32.599Z'
+dateModified: '2017-06-18T00:26:48.559Z'
+datePublished: '2017-06-18T00:26:49.174Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: Article
 ---
 # 2017/18 CONCERT SCHEDULE
 
-## Saturday July 15 2017 - Lake Charles Symphony July Pops
+## Saturday July 15, 2017 - Lake Charles Symphony July Pops
 
 * **The Rat Pack**
 
@@ -39,7 +39,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## Saturday September 30, 2017
+## September 30, 2017 - Lake Charles Symphony
 
 * **Gates Evangeline Suite with video**
 * **Brahms Symphony 4, op. 98, E minor**
@@ -61,20 +61,20 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## Friday October 27, 2017
+## October 27, 2017 - Lake Charles Symphony
 
 * **Music from James Bond**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## November 4, 2017 - Tf3 - Mash up
+## November 4, 2017 - Tf3 Mash up
 
 * **De Falla Three Cornered Hat (suite 1 and 2)**
 * **Tf3 Mash up**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## November 17/18 2017 - Music of John Williams
+## November 17/18, 2017 - Music of John Williams
 
 * **ET: Adventures on Earth**
 * **Concerto for Horn and Orchestra**
@@ -91,7 +91,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## Saturday January 13, 2018
+## January 13, 2018 - Lake Charles Symphony
 
 * **Paul Groves and friends**
 * **Selections from famous arias**
@@ -106,26 +106,26 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## February 23/24 2018 - UTEP Choral Collaboration
+## February 23/24, 2018 - UTEP Choral Collaboration
 
 * **Beethoven Symphony No.7**
 * **Best of Requiem**s
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## March 3 or 4, 2018
+## March 4, 2018 - Lake Charles Symphony
 
 * **Black Violin**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## April 5, 2018
+## April 5, 2018 - Lake Charles Symphony
 
 * **Video games live**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## April 13/14 2018 - Kurt Weill festival
+## April 13/14, 2018 - Kurt Weill festival
 
 * **Mack the knife**
 * **Seven deadly sins**
