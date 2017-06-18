@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-18T00:03:27.871Z'
-datePublished: '2017-06-18T00:03:28.420Z'
+dateModified: '2017-06-18T00:04:10.413Z'
+datePublished: '2017-06-18T00:04:11.022Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -88,6 +88,13 @@ November 17/18 2017 - **Music of John Williams**
 ### **Friday, December 8, 2017 - Holiday pops**
 
 * **Dianne Reeves**
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+### **Saturday January 13, 2018**
+
+* **Paul Groves and friends**
+* **Selections from famous arias**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
