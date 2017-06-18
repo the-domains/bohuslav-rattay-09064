@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-17T23:59:03.338Z'
-datePublished: '2017-06-17T23:59:03.896Z'
+dateModified: '2017-06-17T23:59:42.006Z'
+datePublished: '2017-06-17T23:59:42.437Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -45,6 +45,13 @@ October 20/21 2017 - **Beethoven, Bartok and Beer**
 * **Yefim Bronfman, piano**
 * Beethoven piano concerto no.4
 * Bartok Concerto for Orchestra
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+### **November 4, 2017 - Tf3 - Mash up**
+
+* **De Falla Three Cornered Hat (suite 1 and 2)**
+* **Tf3 Mash up**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
