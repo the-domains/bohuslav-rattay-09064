@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-18T00:04:10.413Z'
-datePublished: '2017-06-18T00:04:11.022Z'
+dateModified: '2017-06-18T00:05:02.633Z'
+datePublished: '2017-06-18T00:05:03.194Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -110,6 +110,12 @@ February 23/24 2018 - **UTEP Choral Collaboration**
 
 * Beethoven Symphony No.7
 * Best of Requiems
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+### **March 3 or 4, 2018**
+
+* **Black Violin**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
