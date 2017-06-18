@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T16:52:28.791Z'
-datePublished: '2017-06-18T16:52:29.261Z'
+dateModified: '2017-06-18T16:55:42.170Z'
+datePublished: '2017-06-18T16:55:42.790Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -31,8 +31,7 @@ _type: Article
 
 ## September 15/16, 2017 - Le Quattro Staggioni - El Paso Symphony
 
-* **Chloe Trevor, violin**
-* **Vivaldi Le Quattro Staggioni**
+* **Vivaldi Le Quattro Staggioni, **_**Chloe Trevor - violin**_
 * **Piazzolla Four Seasons in Buenos Aires**
 * **Korsakov Snow Maiden Suite**
 * **Stravinsky Firebird Suite**
@@ -61,8 +60,7 @@ _type: Article
 
 ## October 20/21, 2017 - Beethoven, Bartok and Beer - El Paso Symphony
 
-* **Yefim Bronfman, piano**
-* **Beethoven piano concerto no.4**
+* **Beethoven piano concerto no.4, **_**Yefim Bronfman - piano**_
 * **Bartok Concerto for Orchestra**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
@@ -83,7 +81,7 @@ _type: Article
 ## November 10, 2017 - Enigma Variantions - West Michigan Symphony
 
 * **Debussy Prelude to the afternoon of a faun**
-* **Daugherty Raise to roof, Andrew Spencer - timpani**
+* **Daugherty Raise to roof, **_**Andrew Spencer - timpani**_
 * **Elgar Enigma Variations**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
