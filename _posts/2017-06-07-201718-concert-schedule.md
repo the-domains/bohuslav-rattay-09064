@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T00:32:50.600Z'
-datePublished: '2017-06-18T00:32:51.176Z'
+dateModified: '2017-06-18T00:33:21.603Z'
+datePublished: '2017-06-18T00:33:22.167Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: Article
 ---
 # 2017/18 CONCERT SCHEDULE
 
-## Saturday July 15, 2017 - July Pops Lake - Charles Symphony
+## Saturday July 15, 2017 - July Pops - Lake Charles Symphony
 
 * **The Rat Pack**
 
