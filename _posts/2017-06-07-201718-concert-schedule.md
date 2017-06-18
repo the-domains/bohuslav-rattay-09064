@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T16:59:00.701Z'
-datePublished: '2017-06-18T16:59:01.366Z'
+dateModified: '2017-06-18T17:01:32.152Z'
+datePublished: '2017-06-18T17:01:32.487Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -105,7 +105,7 @@ _type: Article
 
 ## January 13, 2018 - Lake Charles Symphony
 
-* **Paul Groves and friends**
+* _**Paul Groves and friends**_
 * **Selections from famous arias**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
@@ -149,4 +149,5 @@ _type: Article
 ## April 21, 2018 - Double Concerto - Midland Symphony
 
 * **Poulenc Concerto for Two Pianos and Orchestra in D minor**
+* _**Christina and Michelle Naughton**_**, piano duo**
 * **Mahler Symphony No.5**
