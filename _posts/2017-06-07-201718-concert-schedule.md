@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-18T00:00:17.450Z'
-datePublished: '2017-06-18T00:00:17.908Z'
+dateModified: '2017-06-18T00:00:59.619Z'
+datePublished: '2017-06-18T00:01:00.200Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -69,6 +69,14 @@ November 17/18 2017 - **Music of John Williams**
 ### **Friday, December 8, 2017 - Holiday pops**
 
 * **Dianne Reeves**
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+### **February 3, 2018 - Zuill Bailey, cello**
+
+* **Beethoven Prometheus Overture**
+* **Michael Daugherty cello concerto**
+* **Beethoven Symphony No.7**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
