@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: September 15/16 2017 - Le Quattro Staggioni
-dateModified: '2017-06-18T00:01:33.209Z'
-datePublished: '2017-06-18T00:01:33.682Z'
+dateModified: '2017-06-18T00:02:09.797Z'
+datePublished: '2017-06-18T00:02:10.329Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -16,6 +16,12 @@ _type: Article
 
 ---
 # 2017/18 CONCERT SCHEDULE
+
+### **Saturday July 15, 2017 - July Pops**
+
+* **The Rat Pack**
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
 September 15/16 2017 - **Le Quattro Staggioni**
 
