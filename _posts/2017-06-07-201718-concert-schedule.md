@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T00:33:21.603Z'
-datePublished: '2017-06-18T00:33:22.167Z'
+dateModified: '2017-06-18T16:48:17.851Z'
+datePublished: '2017-06-18T16:48:18.482Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -46,8 +46,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## October 7, 2017 - Brahms, Beer and Bartok -
-Midland Symphony
+## October 7, 2017 - Brahms, Beer and Bartok - Midland Symphony
 
 * **Brahms, Symphony 4, op. 98, E minor**
 * **Bartok, Concerto for Orchestra**
@@ -75,8 +74,15 @@ Midland Symphony
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-## November 17/18, 2017 - Music of John Williams -
-El Paso Symphony
+## November 10, 2017 - Enigma Variantions - West Michigan Symphony
+
+* **Debussy Prelude to the afternoon of a faun**
+* **Daugherty Raise to roof, Andrew Spencer - timpani**
+* **Elgar Enigma Variations**
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
+
+## November 17/18, 2017 - Music of John Williams - El Paso Symphony
 
 * **ET: Adventures on Earth**
 * **Concerto for Horn and Orchestra**
