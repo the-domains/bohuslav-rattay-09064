@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-18T18:32:16.676Z'
-datePublished: '2017-06-18T18:32:17.351Z'
+dateModified: '2017-06-19T17:02:51.634Z'
+datePublished: '2017-06-19T17:02:52.379Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -16,6 +16,8 @@ _type: Article
 
 ---
 # 2017/18 CONCERT SCHEDULE
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="30" style=""></iframe>
 
 ## July 15, 2017 - July Pops - Lake Charles Symphony
 
