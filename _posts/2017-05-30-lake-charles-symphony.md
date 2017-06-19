@@ -1,8 +1,8 @@
 ---
 inFeed: false
-description: 'Saturday July 15, 2017 - July Pops'
-dateModified: '2017-05-30T17:07:00.272Z'
-datePublished: '2017-05-30T17:07:00.783Z'
+description: ''
+dateModified: '2017-06-19T23:14:07.661Z'
+datePublished: '2017-06-19T23:14:08.076Z'
 title: LAKE CHARLES SYMPHONY
 author: []
 publisher: {}
@@ -12,40 +12,42 @@ sourcePath: _posts/2017-05-30-lake-charles-symphony.md
 starred: false
 datePublishedOriginal: '2017-05-30T03:56:28.132Z'
 url: lake-charles-symphony/index.html
-_type: Blurb
+_type: MediaObject
 
 ---
 # LAKE CHARLES SYMPHONY
 
-## 2017/18 SEASON
+# 2017/18 SEASON
 
-**Saturday July 15, 2017 - July Pops**
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="15" style=""></iframe>
 
-* The Rat Pack
+## Saturday July 15, 2017 - July Pops
 
-**Saturday September 30, 2017**
+* **The Rat Pack**
 
-* Gates Evangeline Suite with video 
-* Brahms Symphony 4, op. 98, E minor
-* De Falla Three Cornered Hat (suites 1 and 2)
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-**Friday October 27, 2017**
+## Saturday September 30, 2017
 
-* Music from James Bond
+* **Gates Evangeline Suite with video**
+* **Brahms Symphony 4, op. 98, E minor**
+* **De Falla Three Cornered Hat (suites 1 and 2)**
 
-****
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-**Saturday January 13, 2018**
+## Friday October 27, 2017
 
-* Paul Groves and friends
-* Selection of famous arias__
+* **Music from James Bond**
 
-****
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-**March 3 or 4, 2018**
+## Saturday January 13, 2018
 
-* Black Violin
+* **Paul Groves and friends**
+* **Selections from famous arias**
 
-**April 5, 2018**
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="20" style=""></iframe>
 
-* Video games live
+## March 24 or April 28, 2018
+
+* **Black Violin**
