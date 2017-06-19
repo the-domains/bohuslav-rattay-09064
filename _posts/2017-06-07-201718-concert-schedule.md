@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-19T17:05:27.758Z'
-datePublished: '2017-06-19T17:05:28.205Z'
+dateModified: '2017-06-19T23:14:49.420Z'
+datePublished: '2017-06-19T23:14:50.571Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -127,15 +127,9 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="40" style=""></iframe>
 
-## March 4, 2018 - Lake Charles Symphony
+## March 24 or April 28, 2018 - Lake Charles Symphony
 
 * **Black Violin**
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="40" style=""></iframe>
-
-## April 5, 2018 - Lake Charles Symphony
-
-* **Video games live**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="40" style=""></iframe>
 
