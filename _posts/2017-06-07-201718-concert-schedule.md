@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-28T18:20:32.785Z'
-datePublished: '2018-01-28T18:20:33.415Z'
+dateModified: '2018-01-28T18:21:03.207Z'
+datePublished: '2018-01-28T18:21:03.788Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -123,7 +123,7 @@ _type: Article
 ## February 23/24, 2018 - UTEP Choral Collaboration - El Paso Symphony
 
 * **Beethoven Symphony No. 7**
-* **Best of Requiem**s
+* **Best of Requiems**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="40" style=""></iframe>
 
