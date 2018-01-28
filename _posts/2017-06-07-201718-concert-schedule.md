@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-28T18:21:03.207Z'
-datePublished: '2018-01-28T18:21:03.788Z'
+dateModified: '2018-01-28T18:23:45.272Z'
+datePublished: '2018-01-28T18:23:45.935Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -127,7 +127,7 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="40" style=""></iframe>
 
-## March 9 and 11, 2018 - Mexico State Symphony
+## March 9/11, 2018 - Mexico State Symphony
 
 * **Enescu Romanian Rhapsody No. 1**
 * **Poulenc Concerto for Two Pianos and Orchestra in D minor**
