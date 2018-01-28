@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-19T23:14:49.420Z'
-datePublished: '2017-06-19T23:14:50.571Z'
+dateModified: '2018-01-28T18:16:57.078Z'
+datePublished: '2018-01-28T18:16:58.183Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -127,9 +127,11 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="40" style=""></iframe>
 
-## March 24 or April 28, 2018 - Lake Charles Symphony
+## March 9 and 11, 2018 - Mexico State Symphony
 
-* **Black Violin**
+* **Enescu Romanian Rhapsody No. 1**
+* **Poulenc Concerto for Two Pianos and Orchestra in D minor**
+* **Brahms Symphony No. 4**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="40" style=""></iframe>
 
