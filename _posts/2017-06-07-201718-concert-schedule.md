@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-28T18:20:19.538Z'
-datePublished: '2018-01-28T18:20:20.516Z'
+dateModified: '2018-01-28T18:20:32.785Z'
+datePublished: '2018-01-28T18:20:33.415Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -154,4 +154,4 @@ _type: Article
 
 ## May 5, 2018 Mozart under the Stars - El Paso Opera
 
-* Selection of arias from famous
+* **Selection of arias from famous Mozart operas**
