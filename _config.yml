@@ -1,20 +1,20 @@
-typography_spectrum: 0.9318747409870203
+layout_spectrum: 0.005042622462929328
+typography_spectrum: 0.5460102580608523
+color:
+  lightness: 0.8622782793425319
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  saturation: 0.9897315380243713
+  brandStrength: 0.8162386095039731
+  rhythmicContrast: 0.5808743550088994
 content_rating:
   adult: false
-color:
-  lightness: 0.6232322519772345
-  brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-  saturation: 0.5290637753699159
-  brandStrength: 0.3909648755612313
-  rhythmicContrast: 0.14815048077521792
 github: true
 opengraph: {}
-layout_spectrum: 0.363818691104171
 analytics: {}
 author: {}
 name: Bohuslav Rattay
