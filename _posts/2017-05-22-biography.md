@@ -3,14 +3,14 @@ inFeed: true
 description: >-
   Czech-American conductor Bohuslav Rattay is a busy ambassador for classical
   music, working with orchestras across the globe to produce symphonic works of
-  all kinds to a diverse audience. The newly appointed Music Director of the El
-  Paso Symphony Orchestra also serves as Music Director for the Midland Symphony
-  Orchestra and the Lake Charles Symphony Orchestra. As he gains a reputation as
-  one of the finest young talents of his generation, Mr. Rattay combines
-  impassioned and virtuosic musicianship with a determination to bring great
-  music into the lives of all people.
-dateModified: '2017-05-29T00:21:15.122Z'
-datePublished: '2017-05-29T00:21:15.537Z'
+  all kinds to a diverse audience. Recently appointed as Music Director of the
+  El Paso Symphony Orchestra  also serves as Music Director for the Midland
+  Symphony Orchestra in Michigan. As he gains a reputation as one of the finest
+  young talents of his generation, Mr. Rattay combines impassioned and virtuosic
+  musicianship with a determination to bring great music into the lives of all
+  people.
+dateModified: '2018-07-13T23:39:10.138Z'
+datePublished: '2018-07-13T23:39:10.842Z'
 title: ''
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ url: biography/index.html
 _type: Article
 
 ---
-Czech-American conductor **Bohuslav Rattay** is a busy ambassador for classical music, working with orchestras across the globe to produce symphonic works of all kinds to a diverse audience. The newly appointed Music Director of the El Paso Symphony Orchestra also serves as Music Director for the Midland Symphony Orchestra and the Lake Charles Symphony Orchestra. As he gains a reputation as one of the finest young talents of his generation, Mr. Rattay combines impassioned and virtuosic musicianship with a determination to bring great music into the lives of all people.
+Czech-American conductor **Bohuslav Rattay** is a busy ambassador for classical music, working with orchestras across the globe to produce symphonic works of all kinds to a diverse audience. Recently appointed as Music Director of the El Paso Symphony Orchestra also serves as Music Director for the Midland Symphony Orchestra in Michigan. As he gains a reputation as one of the finest young talents of his generation, Mr. Rattay combines impassioned and virtuosic musicianship with a determination to bring great music into the lives of all people.
 
 An enthusiastic promoter for classical music, Mr. Rattay strives to bring the traditional and innovative together in a manner exciting and fresh for his audience. He is renowned for his unique concert programs, incorporating special audience discussions and including multi-media elements. He is also appreciated for his passion for the classics, with special appreciation often given to his insightful understanding of the music of his native Bohemia. Rattay has been praised for his ability to communicate the depth of a diverse range of music to his audience, for the classics, "Rattay is certainly the man for Tchaikovsky's fourth" (Charleston Today, 2011), and for the fashionable, "Watching him conduct is like watching a painter creating rich imagery to live music on a large canvas" (El Paso Times, 2013). His intelligent and vast programming allows him to connect to a broad range of audience, creating new symphony-goers while entertaining the enthusiasts.
 
