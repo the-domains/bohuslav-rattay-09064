@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-28T18:23:45.272Z'
-datePublished: '2018-01-28T18:23:45.935Z'
+dateModified: '2018-07-13T23:41:55.504Z'
+datePublished: '2018-07-13T23:41:56.340Z'
 title: 2017/18 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -16,12 +16,6 @@ _type: Article
 
 ---
 # 2017/18 CONCERT SCHEDULE
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="70" style=""></iframe>
-
-## July 15, 2017 - July Pops - Lake Charles Symphony
-
-* **The Rat Pack**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="40" style=""></iframe>
 
@@ -124,14 +118,6 @@ _type: Article
 
 * **Beethoven Symphony No. 7**
 * **Best of Requiems**
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="40" style=""></iframe>
-
-## March 9/11, 2018 - Mexico State Symphony
-
-* **Enescu Romanian Rhapsody No. 1**
-* **Poulenc Concerto for Two Pianos and Orchestra in D minor**
-* **Brahms Symphony No. 4**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="40" style=""></iframe>
 
