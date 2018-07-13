@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-13T23:41:55.504Z'
-datePublished: '2018-07-13T23:41:56.340Z'
-title: 2017/18 CONCERT SCHEDULE
+dateModified: '2018-07-13T23:50:58.974Z'
+datePublished: '2018-07-13T23:50:59.883Z'
+title: PAST CONCERT SCHEDULES
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: 201718-concert-schedule/index.html
 _type: Article
 
 ---
-# 2017/18 CONCERT SCHEDULE
+# PAST CONCERT SCHEDULES
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="40" style=""></iframe>
 
