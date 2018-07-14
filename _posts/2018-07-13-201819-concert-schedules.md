@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T19:09:27.371Z'
-datePublished: '2018-07-14T19:09:28.045Z'
+dateModified: '2018-07-14T19:10:03.213Z'
+datePublished: '2018-07-14T19:10:03.990Z'
 title: 2018/19 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -42,7 +42,7 @@ _type: Blurb
 
 ## November 16/17, 2018 - El Paso Symphony
 
-* **Andrew Loyd Webber, Musicals**
+* **Andrew Loyd Webber Musicals**
 * **Mussorgsky/Ravel Pictures from an exhibition**
 
 ## January 18/19, 2019 - El Paso Symphony
@@ -52,7 +52,7 @@ _type: Blurb
 
 ## February 2, 2019 - Midland Symphony
 
-* **Gershwin**
+* **Gershwin Rhapsody in Blue, Second Rhapsody**
 * **Prokofiev symphony No. 5**
 
 ## February 22/23, 2019 - El Paso Symphony
