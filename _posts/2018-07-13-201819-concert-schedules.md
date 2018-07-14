@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T20:00:10.923Z'
-datePublished: '2018-07-14T20:00:11.901Z'
+dateModified: '2018-07-14T20:01:44.475Z'
+datePublished: '2018-07-14T20:01:45.164Z'
 title: 2018/19 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -20,8 +20,6 @@ _type: Article
 ## August 25, 2018 - El Paso Symphony
 
 * **Music of the Queen**
-
----
 
 ## September 21/22, 2018 - El Paso Symphony
 
