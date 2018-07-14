@@ -1,20 +1,20 @@
-typography_spectrum: 0.5460102580608523
+layout_spectrum: 0.33820036559125943
+typography_spectrum: 0.121448399532531
+color:
+  lightness: 0.25018663508909766
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  saturation: 0.8402147799731222
+  brandStrength: 0.5657106913104285
+  rhythmicContrast: 0.17972053099488194
 content_rating:
   adult: false
-color:
-  lightness: 0.8622782793425319
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  saturation: 0.9897315380243713
-  brandStrength: 0.8162386095039731
-  rhythmicContrast: 0.5808743550088994
 github: true
 opengraph: {}
-layout_spectrum: 0.005042622462929328
 analytics: {}
 author: {}
 name: Bohuslav Rattay
@@ -79,7 +79,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
