@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T19:08:07.221Z'
-datePublished: '2018-07-14T19:08:07.826Z'
+dateModified: '2018-07-14T19:08:44.420Z'
+datePublished: '2018-07-14T19:08:45.057Z'
 title: 2018/19 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -32,7 +32,7 @@ _type: Blurb
 
 ## October 19/20 , 2018 - El Paso Symphony
 
-* **Daugherty Fire and Blood**
+* **Daugherty Fire and Blood, **_**Chloe Trevor - violin**_
 * **Tchaikovsky symphony No. 4**
 
 ## November 3, 2018 - Midland Symphony
