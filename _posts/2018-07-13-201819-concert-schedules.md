@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T19:10:03.213Z'
-datePublished: '2018-07-14T19:10:03.990Z'
+dateModified: '2018-07-14T19:11:37.594Z'
+datePublished: '2018-07-14T19:11:38.479Z'
 title: 2018/19 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -66,5 +66,7 @@ _type: Blurb
 
 ## April 26/27, 2019 - El Paso Symphony
 
-* **Bernstein West Side Story**
-* **S**
+* **Bernstein West Side Story Symphonic Dances**
+* **Marquez Danzon 2**
+* **Ginastera Estancia Suite**
+* **Huapango de Mancayo**
