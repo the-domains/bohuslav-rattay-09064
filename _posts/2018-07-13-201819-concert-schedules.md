@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T00:09:04.669Z'
-datePublished: '2018-07-14T00:09:05.371Z'
+dateModified: '2018-07-14T00:14:27.653Z'
+datePublished: '2018-07-14T00:14:28.374Z'
 title: 2018/19 CONCERT SCHEDULES
 author: []
 publisher: {}
@@ -50,34 +50,24 @@ _type: Blurb
 * **Brahms symphony No. 2**
 * **Dvorak Cello Concerto**
 
-## November 4, 2017 - Tf3 Mash up - Midland Symphony
+## February 2, 2019 - Midland Symphony
 
-* **De Falla Three Cornered Hat (suite 1 and 2)**
-* **Tf3 Mash up**
+* **Gershwin**
+* **Prokofiev symphony No. 5**
 
-## November 10, 2017 - Enigma Variantions - West Michigan Symphony
+## February 22/23, 2019 - El Paso Symphony
 
-* **Debussy Prelude to the afternoon of a faun**
-* **Daugherty Raise to roof, **_**Andrew Spencer - timpani**_
-* **Elgar Enigma Variations**
+* **Beethoven piano concerto No. 5**
+* **Prokofiev symphony No. 5**
 
-## November 17/18, 2017 - Music of John Williams - El Paso Symphony
+## April 13, 2019 - Midland Symphony
 
-* **ET: Adventures on Earth**
-* **Concerto for Horn and Orchestra, **_**Kurt Civilette - Horn**_
-* **March from Raiders of the Lost Ark**
-* **Highlights from Jurassic park**
-* **Concerto for Bassoon and Orchestra, **_**Cara Luffey - Bassoon**_
-* **Star Wars Medley**
+* **Carmina Burana**
 
-## December 8, 2017 - Holiday pops - Midland Symphony
+## April 26/27, 2019 - El Paso Symphony
 
-* **Dianne Reeves**
-
-## January 13, 2018 - Lake Charles Symphony
-
-* _**Paul Groves and friends**_
-* **Selections from famous arias**
+* **Bernstein West Side Story**
+* **S**
 
 ## February 3, 2018 - Zuill Bailey, cello - Midland Symphony
 
