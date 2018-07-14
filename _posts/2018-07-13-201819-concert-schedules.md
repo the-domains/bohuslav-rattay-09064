@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T19:11:37.594Z'
-datePublished: '2018-07-14T19:11:38.479Z'
+dateModified: '2018-07-14T19:15:47.782Z'
+datePublished: '2018-07-14T19:15:48.468Z'
 title: 2018/19 CONCERT SCHEDULE
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-07-13-201819-concert-schedules.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-07-14T00:00:23.120Z'
-_type: Blurb
+url: 201819-concert-schedule/index.html
+_type: Article
 
 ---
 # 2018/19 CONCERT SCHEDULE
