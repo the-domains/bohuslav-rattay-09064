@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T00:06:16.396Z'
-datePublished: '2018-07-14T00:06:16.986Z'
+dateModified: '2018-07-14T00:09:04.669Z'
+datePublished: '2018-07-14T00:09:05.371Z'
 title: 2018/19 CONCERT SCHEDULES
 author: []
 publisher: {}
@@ -40,14 +40,15 @@ _type: Blurb
 * **Daugherty**
 * **Brahms symphony No. 2**
 
-## October 20/21, 2017 - Beethoven, Bartok and Beer - El Paso Symphony
+## November 16/17, 2018 - El Paso Symphony
 
-* **Beethoven piano concerto No. 4, **_**Yefim Bronfman - piano**_
-* **Bartok Concerto for Orchestra**
+* **Andrew Loyd Webber**
+* **Mussorgsky/Ravel Pictures **
 
-## October 27, 2017 - Lake Charles Symphony
+## January 18/19, 2019 - El Paso Symphony
 
-* **Music from James Bond**
+* **Brahms symphony No. 2**
+* **Dvorak Cello Concerto**
 
 ## November 4, 2017 - Tf3 Mash up - Midland Symphony
 
