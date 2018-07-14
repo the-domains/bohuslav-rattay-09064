@@ -27,14 +27,14 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: 2018/18 CONCERT SCHEDULE
+    id: 47042a70-79b6-4a79-8867-b80eb445d08f
+    type: content
   - name: PAST CONCERT SEASONS
     id: 27cf9b82-546b-41a7-b4a2-2a9929a449e8
     type: content
   - name: BIOGRAPHY
     id: 2b130b44-ddbf-4d03-9500-7210b8f19907
-    type: content
-  - name: 2018/18 CONCERT SCHEDULE
-    id: 47042a70-79b6-4a79-8867-b80eb445d08f
     type: content
   - name: RESUME
     id: b5ad4b20-ab7e-4692-98e4-066357f624a9
