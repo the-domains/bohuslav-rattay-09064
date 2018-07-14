@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T00:00:52.534Z'
-datePublished: '2018-07-14T00:00:53.039Z'
+dateModified: '2018-07-14T00:02:33.235Z'
+datePublished: '2018-07-14T00:02:34.156Z'
 title: 2018/19 CONCERT SCHEDULES
 author: []
 publisher: {}
@@ -19,12 +19,11 @@ _type: Blurb
 
 * **Music of the Queen**
 
-## September 15/16, 2017 - Le Quattro Staggioni - El Paso Symphony
+## September 21/22, 2018 - El Paso Symphony
 
-* **Vivaldi Le Quattro Staggioni, **_**Chloe Trevor - violin**_
-* **Piazzolla Four Seasons in Buenos Aires**
-* **Korsakov Snow Maiden Suite**
-* **Stravinsky Firebird Suite**
+* _**Chloe Trevor - piano**_
+* **Rachmaninoff piano concerto No.2**
+* **Rachmaninoff symphony No. 2**
 
 ## September 23, 2017 - Jeans 'n Classics - Midland Symphony
 
