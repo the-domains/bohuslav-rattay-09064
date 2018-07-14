@@ -1,5 +1,6 @@
-layout_spectrum: 0.005042622462929328
 typography_spectrum: 0.5460102580608523
+content_rating:
+  adult: false
 color:
   lightness: 0.8622782793425319
   brandColors:
@@ -11,10 +12,9 @@ color:
   saturation: 0.9897315380243713
   brandStrength: 0.8162386095039731
   rhythmicContrast: 0.5808743550088994
-content_rating:
-  adult: false
 github: true
 opengraph: {}
+layout_spectrum: 0.005042622462929328
 analytics: {}
 author: {}
 name: Bohuslav Rattay
@@ -44,6 +44,9 @@ navigation:
     type: content
   - name: MIDLAND SYMPHONY
     id: bcc3bd45-7c61-4dec-a8f9-a5ca864af58c
+    type: content
+  - name: 2018/18 CONCERT SEASON
+    id: 47042a70-79b6-4a79-8867-b80eb445d08f
     type: content
 collections:
   - index:
