@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T00:03:17.248Z'
-datePublished: '2018-07-14T00:03:18.052Z'
+dateModified: '2018-07-14T00:04:04.401Z'
+datePublished: '2018-07-14T00:04:04.925Z'
 title: 2018/19 CONCERT SCHEDULES
 author: []
 publisher: {}
@@ -27,7 +27,10 @@ _type: Blurb
 
 ## October 6, 2018 - Midland Symphony
 
-* ## September 30, 2017 - Lake Charles Symphony
+* **G**
+* **Rachmaninoff symphony No. 2**
+
+## September 30, 2017 - Lake Charles Symphony
 
 * **Gates Evangeline Suite with video**
 * **Brahms Symphony 4, op. 98, E minor**
