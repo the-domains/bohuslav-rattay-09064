@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T00:17:30.546Z'
-datePublished: '2018-07-14T00:17:31.022Z'
+dateModified: '2018-07-14T19:07:22.122Z'
+datePublished: '2018-07-14T19:07:22.773Z'
 title: 2018/19 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -15,13 +15,12 @@ _type: Blurb
 ---
 # 2018/19 CONCERT SCHEDULE
 
-## August 25, 2018 - August Pops - El Paso Symphony
+## August 25, 2018 - El Paso Symphony
 
 * **Music of the Queen**
 
 ## September 21/22, 2018 - El Paso Symphony
 
-* _**Chloe Trevor - piano**_
 * **Rachmaninoff piano concerto No.2**
 * **Rachmaninoff symphony No. 2**
 
