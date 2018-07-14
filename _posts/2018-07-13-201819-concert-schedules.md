@@ -1,21 +1,19 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T00:16:47.258Z'
-datePublished: '2018-07-14T00:16:47.827Z'
-title: 2018/19 CONCERT SCHEDULES
+dateModified: '2018-07-14T00:17:30.546Z'
+datePublished: '2018-07-14T00:17:31.022Z'
+title: 2018/19 CONCERT SCHEDULE
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-07-13-201819-concert-schedules.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2018-07-14T00:00:23.120Z'
-url: 201819-concert-schedules/index.html
-_type: Article
+_type: Blurb
 
 ---
-# 2018/19 CONCERT SCHEDULES
+# 2018/19 CONCERT SCHEDULE
 
 ## August 25, 2018 - August Pops - El Paso Symphony
 
@@ -32,7 +30,7 @@ _type: Article
 * **G**
 * **Rachmaninoff symphony No. 2**
 
-## October 19/20 , 2018 - El Paso Symphony 
+## October 19/20 , 2018 - El Paso Symphony
 
 * **Daugherty Fire and Blood**
 * **Tchaikovsky symphony No. 4**
@@ -45,7 +43,7 @@ _type: Article
 ## November 16/17, 2018 - El Paso Symphony
 
 * **Andrew Loyd Webber**
-* **Mussorgsky/Ravel Pictures **
+* **Mussorgsky/Ravel Pictures**
 
 ## January 18/19, 2019 - El Paso Symphony
 
