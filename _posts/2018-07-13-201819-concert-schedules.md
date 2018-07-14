@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T00:14:27.653Z'
-datePublished: '2018-07-14T00:14:28.374Z'
+dateModified: '2018-07-14T00:15:06.410Z'
+datePublished: '2018-07-14T00:15:06.953Z'
 title: 2018/19 CONCERT SCHEDULES
 author: []
 publisher: {}
@@ -68,31 +68,3 @@ _type: Blurb
 
 * **Bernstein West Side Story**
 * **S**
-
-## February 3, 2018 - Zuill Bailey, cello - Midland Symphony
-
-* **Beethoven Prometheus Overture**
-* **Michael Daugherty cello concerto**
-* **Beethoven Symphony No. 7**
-
-## February 23/24, 2018 - UTEP Choral Collaboration - El Paso Symphony
-
-* **Beethoven Symphony No. 7**
-* **Best of Requiems**
-
-## April 13/14, 2018 - Kurt Weill festival - El Paso Symphony
-
-* **Mack the knife**
-* **Seven deadly sins**
-* **Whitman songs**
-* **Broadway medley**
-
-## April 21, 2018 - Double Concerto - Midland Symphony
-
-* **Poulenc Concerto for Two Pianos and Orchestra in D minor**
-* _**Christina and Michelle Naughton**_**, piano duo**
-* **Mahler Symphony No. 5**
-
-## May 5, 2018 Mozart under the Stars - El Paso Opera
-
-* **Selection of arias from famous Mozart operas**
