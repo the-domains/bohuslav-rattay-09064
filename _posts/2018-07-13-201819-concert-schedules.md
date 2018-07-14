@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T00:02:33.235Z'
-datePublished: '2018-07-14T00:02:34.156Z'
+dateModified: '2018-07-14T00:03:17.248Z'
+datePublished: '2018-07-14T00:03:18.052Z'
 title: 2018/19 CONCERT SCHEDULES
 author: []
 publisher: {}
@@ -25,11 +25,9 @@ _type: Blurb
 * **Rachmaninoff piano concerto No.2**
 * **Rachmaninoff symphony No. 2**
 
-## September 23, 2017 - Jeans 'n Classics - Midland Symphony
+## October 6, 2018 - Midland Symphony
 
-* **Music of Bowie & Prince**
-
-## September 30, 2017 - Lake Charles Symphony
+* ## September 30, 2017 - Lake Charles Symphony
 
 * **Gates Evangeline Suite with video**
 * **Brahms Symphony 4, op. 98, E minor**
