@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T00:05:14.503Z'
-datePublished: '2018-07-14T00:05:15.451Z'
+dateModified: '2018-07-14T00:06:16.396Z'
+datePublished: '2018-07-14T00:06:16.986Z'
 title: 2018/19 CONCERT SCHEDULES
 author: []
 publisher: {}
@@ -35,10 +35,10 @@ _type: Blurb
 * **Daugherty Fire and Blood**
 * **Tchaikovsky symphony No. 4**
 
-## October 7, 2017 - Brahms, Beer and Bartok - Midland Symphony
+## November 3, 2018 - Midland Symphony
 
-* **Brahms, Symphony 4, op. 98, E minor**
-* **Bartok, Concerto for Orchestra**
+* **Daugherty**
+* **Brahms symphony No. 2**
 
 ## October 20/21, 2017 - Beethoven, Bartok and Beer - El Paso Symphony
 
