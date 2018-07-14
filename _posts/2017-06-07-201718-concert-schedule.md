@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2018-07-14T19:19:39.434Z'
-datePublished: '2018-07-14T19:19:40.344Z'
+dateModified: '2018-07-14T19:46:39.096Z'
+datePublished: '2018-07-14T19:46:40.131Z'
 title: PAST CONCERT SCHEDULES
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-07T21:40:26.281Z'
 url: 201718-concert-schedule/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # PAST CONCERT SCHEDULES
