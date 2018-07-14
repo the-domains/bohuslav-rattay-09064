@@ -1,21 +1,21 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T00:00:24.561Z'
-datePublished: '2018-07-14T00:00:25.227Z'
+dateModified: '2018-07-14T00:00:52.534Z'
+datePublished: '2018-07-14T00:00:53.039Z'
 title: 2018/19 CONCERT SCHEDULES
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-07-13-201819-concert-schedules.md
 starred: false
 datePublishedOriginal: '2018-07-14T00:00:23.120Z'
-sourcePath: _posts/2018-07-13-201819-concert-schedules.md
 _type: Blurb
 
 ---
 # 2018/19 CONCERT SCHEDULES
 
-## August 19, 2017 - August Pops - El Paso Symphony
+## August 25, 2018 - August Pops - El Paso Symphony
 
 * **Music of the Queen**
 
