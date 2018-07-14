@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T19:07:22.122Z'
-datePublished: '2018-07-14T19:07:22.773Z'
+dateModified: '2018-07-14T19:08:07.221Z'
+datePublished: '2018-07-14T19:08:07.826Z'
 title: 2018/19 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -26,7 +26,8 @@ _type: Blurb
 
 ## October 6, 2018 - Midland Symphony
 
-* **G**
+* **Vivaldi Le Quattro Staggioni, **_**Chloe Trevor - violin**_
+* **Piazzolla Four Seasons in Buenos Aires**
 * **Rachmaninoff symphony No. 2**
 
 ## October 19/20 , 2018 - El Paso Symphony
