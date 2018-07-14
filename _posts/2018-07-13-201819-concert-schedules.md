@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T00:04:04.401Z'
-datePublished: '2018-07-14T00:04:04.925Z'
+dateModified: '2018-07-14T00:05:14.503Z'
+datePublished: '2018-07-14T00:05:15.451Z'
 title: 2018/19 CONCERT SCHEDULES
 author: []
 publisher: {}
@@ -30,10 +30,10 @@ _type: Blurb
 * **G**
 * **Rachmaninoff symphony No. 2**
 
-## September 30, 2017 - Lake Charles Symphony
+## October 19/20 , 2018 - El Paso Symphony 
 
-* **Gates Evangeline Suite with video**
-* **Brahms Symphony 4, op. 98, E minor**
+* **Daugherty Fire and Blood**
+* **Tchaikovsky symphony No. 4**
 
 ## October 7, 2017 - Brahms, Beer and Bartok - Midland Symphony
 
