@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T19:09:05.134Z'
-datePublished: '2018-07-14T19:09:05.719Z'
+dateModified: '2018-07-14T19:09:27.371Z'
+datePublished: '2018-07-14T19:09:28.045Z'
 title: 2018/19 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -42,8 +42,8 @@ _type: Blurb
 
 ## November 16/17, 2018 - El Paso Symphony
 
-* **Andrew Loyd Webber**
-* **Mussorgsky/Ravel Pictures**
+* **Andrew Loyd Webber, Musicals**
+* **Mussorgsky/Ravel Pictures from an exhibition**
 
 ## January 18/19, 2019 - El Paso Symphony
 
