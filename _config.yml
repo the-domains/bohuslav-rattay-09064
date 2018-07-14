@@ -27,7 +27,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: 2017/18 CONCERT SEASON
+  - name: PAST CONCERT SEASONS
     id: 27cf9b82-546b-41a7-b4a2-2a9929a449e8
     type: content
   - name: BIOGRAPHY
