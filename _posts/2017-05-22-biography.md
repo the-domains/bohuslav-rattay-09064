@@ -9,8 +9,8 @@ description: >-
   young talents of his generation, Mr. Rattay combines impassioned and virtuosic
   musicianship with a determination to bring great music into the lives of all
   people.
-dateModified: '2018-07-14T19:58:46.387Z'
-datePublished: '2018-07-14T19:58:46.671Z'
+dateModified: '2018-07-14T19:59:52.946Z'
+datePublished: '2018-07-14T19:59:53.149Z'
 title: ''
 author: []
 publisher: {}
