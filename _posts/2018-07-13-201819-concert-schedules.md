@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-14T19:08:44.420Z'
-datePublished: '2018-07-14T19:08:45.057Z'
+dateModified: '2018-07-14T19:09:05.134Z'
+datePublished: '2018-07-14T19:09:05.719Z'
 title: 2018/19 CONCERT SCHEDULE
 author: []
 publisher: {}
@@ -37,7 +37,7 @@ _type: Blurb
 
 ## November 3, 2018 - Midland Symphony
 
-* **Daugherty**
+* **Daugherty Tuba Concerto, **_**Mark Cox - tuba**_
 * **Brahms symphony No. 2**
 
 ## November 16/17, 2018 - El Paso Symphony
